@@ -1,0 +1,142 @@
+html{
+    scroll-behavior: smooth;
+    background-color: #e3e1e1;
+}
+header {
+    text-align: center;
+}
+h1 {
+    font-family: 'Qwigley', cursive;
+    font-size: 60px;
+    margin-top: 50px;
+    color: #292e2a;
+    text-shadow: 1px .5px 2px #292e2a;
+}
+body {
+    margin: 0px;
+}
+main {
+    text-align: center;
+}
+
+.started, .beautiful-rooms, .ends, .parking-lots, .mess, .fool, .ruin {
+    font-family: 'Qwigley', cursive;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.illicit-affairs {
+    font-family: 'Qwigley', cursive;
+    font-weight: bold;
+    font-size: 18px;
+    text-shadow: .4px .2px .5px #e3e1e1;
+}
+
+.chorus-1 p:nth-child(7), 
+.chorus-2 p:nth-child(7), 
+.outro p:nth-child(3) {
+    letter-spacing: 8px;
+}
+
+.dies-1, .lie-1 {
+    margin-left: -150px;
+    font-family: 'Qwigley', cursive;
+    font-weight: bold;
+    font-size: 18px;
+}
+.dies-2, .lie-2 {
+    margin-left: -10px;
+    font-family: 'Qwigley', cursive;
+    font-weight: bold;
+    font-size: 18px;
+}
+.dies-3, .lie-3 {
+    margin-left: 130px;
+    font-family: 'Qwigley', cursive;
+    font-weight: bold;
+    font-size: 18px;
+}
+.down, .stop, .him, .high {
+    font-family: 'Qwigley', cursive;
+    margin-left: 270px;
+    text-shadow: .9px .4px .8px rgba(14, 14, 14, .4);
+}
+
+.c {
+    letter-spacing: 5px;
+    color: #e663a6;
+    font-size: 24px;
+    font-weight: 700;
+}
+.o-1 {
+    letter-spacing: 5px;
+    color: #21c427;
+    font-size: 24px;
+    font-weight: 700;
+}
+.l {
+    letter-spacing: 5px;
+    color: #026dba;
+    font-size: 24px;
+    font-weight: 700;
+}
+.o-2 {
+    letter-spacing: 5px;
+    color: #fc0810;
+    font-size: 24px;
+    font-weight: 700;
+}
+.r {
+    letter-spacing: 5px;
+    color: #db5c21;
+    font-size: 24px;
+    font-weight: 700;
+}
+.s {
+    letter-spacing: 5px;
+    color: #600fbd;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+q {
+    letter-spacing: 3px;
+    font-family: 'Qwigley', cursive;
+    font-weight: bold;
+    font-size: 24px;
+    text-shadow: .8px .3px .8px rgba(14, 14, 14, .6);
+}
+
+p {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.chorus-1, .chorus-2 {
+    position: relative;
+    text-align: center;
+    margin: 20px;
+    padding: 30px;
+    display: inline-block;
+    color: #162414;
+    overflow: hidden;
+    background-image: url("../images/folklore-album-cover.JPG");
+    background-size: cover;
+    background-position: center;
+}
+.outro {
+    text-align: center;
+    margin: 20px;
+    padding: 30px;
+    display: inline-block;
+    background-color: #3b4d34;
+    color: #e3e1e1;
+}
+footer {
+    text-align: center;
+    margin: 10px;
+    padding: 5px;
+}
+.chorus-1 div {
+    position: relative;
+    z-index: 1;
+}
+
